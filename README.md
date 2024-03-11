@@ -49,7 +49,7 @@ Prepare two consecutive bubble images (format of JPG or PNG or TIF) and one mask
 
 ## How to test your own bubble image/video
 1. Clone this repository
-1. Install dependencies
+1. Install dependencies (If compatibility issue occurs, please refer to the original PWC-Net link)
 1. Download trained weights from this [link](https://drive.google.com/file/d/1WTe6k3u0NsHwSko8sqna02gP3pJS6R5d/view?usp=sharing).
 
 1. Run prediction script (CNN_OpticalFlow.ipynb) **in `Code/` directory** to obtain the velocity field (supports only 3-channel jpg image).
