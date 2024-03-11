@@ -33,7 +33,8 @@ This code was tested on the below environment.
 - cuDNN 7.6.5
 - Python 3.7
 - TensorFlow 1.14.0
-- Keras 2.2.5 and other common packages listed in `requirements.txt`.
+- Keras 2.2.5
+(If compatibility issue occurs, please refer to the original PWC-Net [link](https://github.com/philferriere/tfoptflow))
 
 
 ## Preparing the input
